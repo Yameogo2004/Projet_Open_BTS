@@ -1,6 +1,3 @@
-# Projet_Open_BTS
-OpenBTS – Implementation, configuration and experimentation
-
 # 📡 Projet OpenBTS — Déploiement et expérimentation d'un réseau GSM privé avec SDR (USRP B210)
 
 <p align="center">

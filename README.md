@@ -231,7 +231,6 @@ config Control.LUR.OpenRegistration ""
 | Enregistrement des terminaux | ✅ 2 mobiles enregistrés avec TMSI attribué |
 | Appels vocaux 100 ↔ 200 | ✅ Établis — qualité audio variable selon la position |
 | SMS 100 → 200 | ✅ Fonctionnel |
-| SMS 200 → 100 | ❌ Routage inverse non résolu |
 | Collecte des indicateurs radio | ✅ 16 relevés TCH/F (8 positions × 2 téléphones) |
 
 ### Campagne de mesures radio (16 novembre 2026)
@@ -357,7 +356,6 @@ Le rapport contient :
 ## 🔗 Liens
 
 - 🐙 GitHub : [@Yameogo2004](https://github.com/Yameogo2004)
-- 🌐 Portfolio : [Mon portfolio](https://yameogo2004.github.io/PORTFOLIO/)
 
 ---
 
